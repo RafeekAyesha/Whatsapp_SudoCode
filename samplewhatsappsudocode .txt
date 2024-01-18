@@ -1,0 +1,6 @@
+This is WhatsApp Structure Code:
+Author: Ayesha
+1.Profile Page code
+2. Chat screen Page code
+3. Last screen Page code
+4. Attachments (Images, Vidos, Audio) Code
