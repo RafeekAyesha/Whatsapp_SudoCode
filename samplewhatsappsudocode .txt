@@ -4,3 +4,6 @@ Author: Ayesha
 2. Chat screen Page code
 3. Last screen Page code
 4. Attachments (Images, Vidos, Audio) Code
+5. Hiding Last seen Code
+6. Adding the audio cal feature
+7. Addimg the video cal feature
