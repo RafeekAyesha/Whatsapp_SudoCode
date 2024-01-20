@@ -3,7 +3,7 @@ Author: Ayesha
 1.Profile Page code
 2. Chat screen Page code
 3. Last screen Page code
-4. Attachments (Images, Vidos, Audio, Documents) Code
+4. Attachments (Images, Vidos, Audio, Document) Code
 5. Hiding Last seen Code
 6. Adding the audio cal feature
 7. Addimg the video cal feature
